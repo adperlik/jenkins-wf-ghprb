@@ -1,4 +1,4 @@
 
 node {
-  echo "Some echo 1"
+  echo "Some echo PR-2"
 }
