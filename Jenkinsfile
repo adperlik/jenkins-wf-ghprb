@@ -1,4 +1,6 @@
 
 node {
-  echo "Some echo 1"
+  echo "Some echo ${sha1}"
+  sh "ls -la"
+  sh "git status"
 }
